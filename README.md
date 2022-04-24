@@ -1,6 +1,15 @@
 # HappieBot 😊
 A discord bot that keeps you happy by sharing memes, jokes and quotes.
 
+## <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="32" height="32"> Add bot to your Server
+[Add to Discord](https://discord.com/api/oauth2/authorize?client_id=967518989695746058&permissions=0&scope=bot%20applications.commands)
+
+### Commands
+```
+/quote - Give you a random quote.
+/meme - Give you a random meme.
+/joke - Give you a random joke.
+```
 ## <img src="https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png" width="32" height="32"> Getting Started
 To get a local copy up and running follow these simple steps.
 ### Prerequisites
